@@ -1,0 +1,24 @@
+{
+  "name": "codefellows-readme-templates",
+  "version": "1.0.0",
+  "description": "Code Fellows Readme Templates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrendonLH/codefellows-readme-templates.git"
+  },
+  "keywords": [
+    "Readme",
+    "Template",
+    "CodeFellows"
+  ],
+  "author": "Brendon Hampton <brendonhampton1988@gmail.com> (https://brendonh-react-portfolio.netlify.app/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BrendonLH/codefellows-readme-templates/issues"
+  },
+  "homepage": "https://github.com/BrendonLH/codefellows-readme-templates#readme"
+}
