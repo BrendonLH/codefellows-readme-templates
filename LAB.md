@@ -2,8 +2,8 @@
 ## Project: Project Name Here
 ### Author: Student/Group Name
 ### Links and Resources
-- back-end server url (when applicable)
-- front-end application (when applicable)
+- [back-end server url](#) (when applicable)
+- [front-end application](#) (when applicable)
 ### Setup
 `.env` requirements (where applicable)
 
